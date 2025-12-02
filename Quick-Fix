@@ -1,0 +1,7 @@
+Steps to fix errors :
+use 17.6.4 branch 
+change directory to cloned directory
+open terminal with the current path
+run command -make
+then 
+run comman -sudo make install
